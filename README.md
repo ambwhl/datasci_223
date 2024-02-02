@@ -5,7 +5,7 @@ In my previous position, I developed several automated NGS pipelines including W
 I aim to systematically learn Python and prepare myself for a technical interview at a LeetCode medium difficulty level.
 
 # Collaborators
-_Nien Yeh Daphne Yu_ , _Chenyu Wang_, _Yukari Katsuhara_
+
 
 # Instructions
 My answers to exercise 2 is a jupiter notebook file with extention ".ipynb", which is the default format of the original assignment file. 
