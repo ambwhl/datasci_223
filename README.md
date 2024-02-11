@@ -9,6 +9,8 @@ I aim to systematically learn Python and prepare myself for a technical intervie
 # Instructions
 My answers to exercise 4 is a jupiter notebook file with extention ".ipynb", which is the default format of the original assignment file. 
 link:https://github.com/ambwhl/datasci_223/blob/exercise-4/exercises/4-classification/exercise.ipynb
+My choices, process, and outcomes are explained in Readme.md: 
+https://github.com/ambwhl/datasci_223/blob/exercise-4/exercises/4-classification/Readme.md
 
 My answers to exercise 3 is a jupiter notebook file with extention ".ipynb", which is the default format of the original assignment file. 
 link: https://github.com/christopherseaman/datasci_223/blob/main/exercises/3-sql-queries/exercise.ipynb
